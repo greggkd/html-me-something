@@ -1,8 +1,24 @@
-h1 {
+h1.intro {
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
     background-color: blue;
+    font-family: cursive;
+}
+
+html {
+    background-color: gray;
+}
+#swim {
+    background-color: skyblue;
+}
+
+#hike{
+    background-color: green;
+}
+
+#bike{
+    background-image: 
 }
 
